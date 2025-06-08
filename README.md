@@ -63,10 +63,10 @@ pip install -r requirements.txt
 
 * `ModelDevelopment.ipynb` — Jupyter Notebook with the full analysis
 * `HOK-En-VADER-Analysis.csv` — The output CSV file with sentiment scores
-* `app.py` — *(Future)* For deploying the model as a web app
-* `data.py` — *(Future)* For data loading and processing functions
-* `filters.py` — *(Future)* For filtering and data selection
-* `visualizations.py` — *(Future)* For generating visualizations
+* `app.py` — For deploying the model as a web app
+* `data.py` — For data loading and processing functions
+* `filters.py` — For filtering and data selection
+* `visualizations.py` — For generating visualizations
 * `requirements.txt` — List of required Python libraries
 * `README.md` — This file
 
